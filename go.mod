@@ -1,4 +1,4 @@
-module github.com/leobewater/udemy-orders-go-admin
+module github.com/leobewater/grpc-ecom-admin-backend-go
 
 go 1.16
 

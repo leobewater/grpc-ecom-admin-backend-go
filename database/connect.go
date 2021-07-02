@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/leobewater/udemy-orders-go-admin/models"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

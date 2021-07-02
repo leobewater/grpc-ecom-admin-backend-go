@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/leobewater/udemy-orders-go-admin/controllers"
-	"github.com/leobewater/udemy-orders-go-admin/middlewares"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/controllers"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/middlewares"
 )
 
 // Setup sets up routes

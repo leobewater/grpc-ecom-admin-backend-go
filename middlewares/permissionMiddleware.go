@@ -5,9 +5,9 @@ import (
 	"strconv"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/leobewater/udemy-orders-go-admin/database"
-	"github.com/leobewater/udemy-orders-go-admin/models"
-	"github.com/leobewater/udemy-orders-go-admin/util"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/database"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/models"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/util"
 )
 
 func IsAuthorized(c *fiber.Ctx, page string) error {

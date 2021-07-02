@@ -2,7 +2,7 @@ package middlewares
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/leobewater/udemy-orders-go-admin/util"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/util"
 )
 
 // IsAuthenticated gets jwt value from cookie for authentication

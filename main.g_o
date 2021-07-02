@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
-	"github.com/leobewater/udemy-orders-go-admin/database"
-	"github.com/leobewater/udemy-orders-go-admin/routes"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/database"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/routes"
 )
 
 func main() {

@@ -7,10 +7,10 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/leobewater/udemy-orders-go-admin/database"
-	"github.com/leobewater/udemy-orders-go-admin/models"
-	"github.com/leobewater/udemy-orders-go-admin/pb/userpb"
-	"github.com/leobewater/udemy-orders-go-admin/util"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/database"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/models"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/pb/userpb"
+	"github.com/leobewater/grpc-ecom-admin-backend-go/util"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
